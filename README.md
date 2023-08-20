@@ -1,1 +1,1 @@
-# Estudo_de_Caso_BellaBeat_DataAnalytics
+# Estudo_de_Caso_Bellabeat_DataAnalytics
